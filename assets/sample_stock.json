@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Marlboro Red",
+    "barcode": "4606203102808",
+    "qty": 12
+  },
+  {
+    "name": "Winston Blue",
+    "barcode": "4603436000748",
+    "qty": 0
+  },
+  {
+    "name": "Kent Silver",
+    "barcode": "4600266014610",
+    "qty": 18
+  },
+  {
+    "name": "LD Blue",
+    "barcode": "4600767021204",
+    "qty": 0
+  },
+  {
+    "name": "Parliament Night Blue",
+    "barcode": "4607123144753",
+    "qty": 9
+  }
+]
